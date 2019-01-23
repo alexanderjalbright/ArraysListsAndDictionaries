@@ -43,6 +43,7 @@ namespace ArraysListsAndDictionaries
             var firstLuxuryCar = luxuryCars[0];
 
             Console.WriteLine(firstLuxuryCar);
+            
 
             
 
